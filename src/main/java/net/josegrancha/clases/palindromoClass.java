@@ -8,7 +8,7 @@ package net.josegrancha.clases;
  *
  * @author JGrancha
  * @version 1.0
- * Fecha 02-10-2013
+ * @since 02-10-2013 
  */
 
 public class palindromoClass {
@@ -24,10 +24,10 @@ public class palindromoClass {
     }
     
     /**
-     * Para obtener la referencia a este objeto
-     *
+     * Al llamarlo,obtenemos la referencia a este objeto
      * @return referencia al objeto
      */
+    
     public palindromoClass getReference() {
         return this;
     }
